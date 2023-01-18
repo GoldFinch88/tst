@@ -1,5 +1,4 @@
 bin
-db
 log
 cache
 colorDB/.colorDB.lock
